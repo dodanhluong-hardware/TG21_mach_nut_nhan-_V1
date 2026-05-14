@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LEMMBTNX
 
 [Document4]
 DocumentPath=..\..\Documents\Library\TG21_TX_Ma tran phimPrjPcb.SCHLIB
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DNUXERZG
 
 [Document5]
 DocumentPath=..\..\Documents\Library\TG21_TX_Xu ly ma tran phim.PcbLib
@@ -152,13 +152,13 @@ GenerateClassCluster=0
 DocumentUniqueId=YNCTSZQK
 
 [Document7]
-DocumentPath=TG21_RX_OverView.SchDoc
+DocumentPath=TG21_mach_nut_nhan _V1_ReV.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FHRKJVQY
+DocumentUniqueId=QGNMSOSQ
 
 [Configuration1]
 Name=Sources
