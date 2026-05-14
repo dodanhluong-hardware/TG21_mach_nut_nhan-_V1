@@ -50,6 +50,57 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Cover page.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KTYRHRLA
+
+[Document2]
+DocumentPath=Block Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QSOFZGLF
+
+[Document3]
+DocumentPath=Voltage Source.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IQLZCOFS
+
+[Document4]
 DocumentPath=TG21_mach_nut_nhan _V1_ReV.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXWYTDNX
 
-[Document2]
+[Document5]
 DocumentPath=TG21_TX_Xu ly ma tran phim.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INPWVACL
 
-[Document3]
+[Document6]
 DocumentPath=..\..\Documents\Library\TG21_TX_Ma tran phim.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document7]
 DocumentPath=..\..\Documents\Library\TG21_TX_Ma tran phimPrjPcb.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document8]
 DocumentPath=..\..\Documents\Library\TG21_TX_Xu ly ma tran phim.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXTAYWKK
 
-[Document6]
+[Document9]
 DocumentPath=..\..\Documents\Library\TG21_TX_Xu ly ma tran phim.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,6 +201,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNCTSZQK
+
+[Document10]
+DocumentPath=CONNECTOR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBSRFUFX
 
 [Configuration1]
 Name=Sources
