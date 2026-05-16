@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: TG21_mach_nut_nhan _V1_ReV.PcbDoc   5/16/2026  9:44:13 AM
+NCDrill File Report For: TG21_mach_nut_nhan _V1_ReV.PcbDoc   5/16/2026  4:08:59 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,14 +8,14 @@ ASCII SlotHoles File : TG21_mach_nut_nhan _V1_ReV-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             1555      PTH        11013.95mm (433.62inch)
+T1      0.3mm (12mil)                                             Round             2511      PTH        14203.52mm (559.19inch)
 T2      0.711mm (28mil)                                           Round             97        PTH        2165.87mm (85.27inch)
 T3      0.8mm (31mil)                                             Round             7         PTH        15.24mm (0.60inch)
 T4      0.8mm (31mil)                                             Slot              364       PTH        7034.02mm (276.93inch)
-T5      0.9mm (35mil)                                             Round             24        PTH        329.14mm (12.96inch)
-T6      1mm (39mil)                                               Round             13        PTH        148.71mm (5.85inch)
+T5      0.9mm (35mil)                                             Round             24        PTH        275.65mm (10.85inch)
+T6      1mm (39mil)                                               Round             13        PTH        142.97mm (5.63inch)
 T7      1.7mm (67mil)                                             Round             2         PTH        5.00mm (0.20inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              2062
+Totals                                                                              3018
 
 Total Processing Time (hh:mm:ss) : 00:00:02
