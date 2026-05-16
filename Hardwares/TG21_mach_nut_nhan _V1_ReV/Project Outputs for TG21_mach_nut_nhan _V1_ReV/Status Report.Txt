@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TG21_mach_nut_nhan _V1_ReV.PrjPcb]
+   Generated File[TG21_mach_nut_nhan _V1_ReV-RoundHoles.TXT]
+   Generated File[TG21_mach_nut_nhan _V1_ReV-SlotHoles.TXT]
+   Generated File[TG21_mach_nut_nhan _V1_ReV.LDP]
+   Generated File[TG21_mach_nut_nhan _V1_ReV.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:44:15 AM On 5/16/2026

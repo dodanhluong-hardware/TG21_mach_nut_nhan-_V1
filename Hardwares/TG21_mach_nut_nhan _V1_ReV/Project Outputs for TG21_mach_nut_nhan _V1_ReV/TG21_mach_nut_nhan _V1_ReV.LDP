@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\DELL\Documents\GitHub\Altium-cp1\TG21_mach_nut_nhan-_V1\Hardwares\TG21_mach_nut_nhan _V1_ReV\TG21_mach_nut_nhan _V1_ReV.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tg21_mach_nut_nhan _v1_rev-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tg21_mach_nut_nhan _v1_rev-slotholes.txt|DrillLayers=gtl,gbl
